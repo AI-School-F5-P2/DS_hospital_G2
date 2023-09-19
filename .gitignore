@@ -1,6 +1,12 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+# .gitinore
+.gitignore
+# Agit rchivos csv
+*.csv
+# entorno virtual
+env/
+# jupyter notebook
+F5Hospital.ipynb
+# Byte-compiled / optimized / DLL files*.py[cod]
 *$py.class
 
 #Data
