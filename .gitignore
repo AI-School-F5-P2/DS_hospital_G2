@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Data
+Data/
+stroke_dataset.csv
+
 # C extensions
 *.so
 
