@@ -6,6 +6,7 @@ __pycache__/
 #Data
 Data/
 stroke_dataset.csv
+*.csv
 
 # C extensions
 *.so
