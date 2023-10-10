@@ -13,6 +13,9 @@ F5Hospital.ipynb
 Data/
 stroke_dataset.csv
 *.csv
+*.pickle
+finalmodel.pickle
+
 
 # C extensions
 *.so
