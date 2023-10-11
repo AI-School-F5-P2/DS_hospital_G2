@@ -2,6 +2,7 @@
 .gitignore
 # Agit rchivos csv
 *.csv
+stroke_dataset.csv
 # entorno virtual
 env/
 # jupyter notebook
