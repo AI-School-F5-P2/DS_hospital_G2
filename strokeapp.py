@@ -6,7 +6,7 @@ import numpy as np
 import pickle
 
 # Load the model
-with open('finalmodel.pickle', 'rb') as model_file:
+with open('Notebooks/finalmodel.pickle', 'rb') as model_file:
     model = pickle.load(model_file)
 
 # Define Streamlit app layout and functionality
