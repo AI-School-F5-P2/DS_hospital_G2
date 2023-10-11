@@ -32,6 +32,23 @@ The frontend is developed using Streamlit and consists of a basic form. It provi
 2. Fill in the patient details in the provided form.
 3. Submit the form to get an instant prediction on stroke risk.
 
+## Files and Folders
+
+- README.md: Project usage guide.
+
+- requirements.txt: Install this file to ensure your environment has all the necessary libraries. You can install it by running "pip install -r requirements.txt" in the terminal.
+
+- .gitignore: Prevents selected files and folders from being uploaded to the repository.
+
+- strokeapp.py: Interface for predicting whether a patient is at risk of having a stroke. Note: to make this script work, you need the .pickle file, which is not uploaded to the repository and is generated automatically when running Modelling.ipynb.
+
+- Notebooks:
+    · EDA: Exploratory data analysis.
+    · Hyperparameter_tuning: Search for the best hyperparameters for the final model.
+    · Modelling: Training the final chosen model and creating the pickle.
+    · Model_comparison: Model comparison to determine which one provides the best metrics.
+
+
 ## Contributing
 
 If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
