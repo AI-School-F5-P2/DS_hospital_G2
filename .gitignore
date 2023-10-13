@@ -1,11 +1,22 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+# .gitinore
+.gitignore
+# Agit rchivos csv
+*.csv
+stroke_dataset.csv
+# entorno virtual
+env/
+# jupyter notebook
+F5Hospital.ipynb
+# Byte-compiled / optimized / DLL files*.py[cod]
 *$py.class
 
 #Data
 Data/
 stroke_dataset.csv
+*.csv
+*.pickle
+finalmodel.pickle
+
 
 # C extensions
 *.so
