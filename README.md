@@ -42,6 +42,8 @@ The frontend is developed using Streamlit and consists of a basic form. It provi
 
 - strokeapp.py: Interface for predicting whether a patient is at risk of having a stroke. Note: to make this script work, you need the .pickle file, which is not uploaded to the repository and is generated automatically when running Modelling.ipynb.
 
+- Performance_Report.md: Classification report explaining the AI's capability
+
 - Notebooks:
     · EDA: Exploratory data analysis.
     · Hyperparameter_tuning: Search for the best hyperparameters for the final model.
